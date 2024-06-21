@@ -1,0 +1,2 @@
+# magazin
+Mening magazinim
